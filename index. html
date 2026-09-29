@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Menu Wisata</title>
+    <title>Jelajah Wisata</title>
 </head>
 
 <body>
 
 <center>
 
-<img src="kawah.jpg" width="600" height="200">
+<img src="c:\Users\User\Documents\hyperlink\kawah.jpg" class="full" width="100%" height="100%">
 
-<table border="1" width="600" cellspacing="0">
+<table border="1" width="100%" cellspacing="0">
     <tr bgcolor="blue">
-
         <td align="center">
             <a href="index.html" style="color:white;">
                 Beranda
@@ -30,56 +29,29 @@
                 Website pariwisata
             </a>
         </td>
-
     </tr>
 </table>
 
-<h2>🌴 Menu Wisata</h2>
+<h2>Jelajahi Indonesia bersama MaiA</h2>
 
-<p>Berikut adalah objek wisata menarik di Jawa Timur</p>
+<p>
+Selamat datang di Indonesia, jelajahi keindahan alam dan nikmati
+perjalanan yang nyaman dan berkesan.
+</p>
 
-<table width="600">
-    <tr>
+<hr width="100%">
 
-        <td align="center">
-            <img src="bromo.jpg" width="150" height="100">
-            <br>
-            <b>Gunung Bromo</b>
-            <p>
-                Gunung Bromo merupakan salah satu
-                tempat wisata terkenal yang berada di Jawa Timur.
-            </p>
-        </td>
-
-        <td align="center">
-            <img src="kawah.jpg" width="150" height="100">
-            <br>
-            <b>Kawah Ijen</b>
-            <p>
-                Kawah Ijen merupakan salah satu
-                tempat wisata terkenal yang berada di Jawa Timur.
-            </p>
-        </td>
-
-        <td align="center">
-            <img src="airterjun.jpg" width="150" height="100">
-            <br>
-            <b>Air Terjun Coban Rondo</b>
-            <p>
-                Air Terjun Coban Rondo merupakan salah satu
-                tempat wisata terkenal yang berada di Jawa Timur.
-            </p>
-        </td>
-
-    </tr>
-</table>
-
-<hr width="600">
-
+<p>
 contact Person : Jelajah Wisata
-<a href="https://wa.me/62827111">
-+62827111
+
+<a href="https://wa.me/6281233136219">
++6281233136219
 </a>
+<br>
+<a href="mailto:piyaajalahya@gmail.com">piyaajalahya@gmail.com
+
+</a>
+</p>
 
 </center>
 
